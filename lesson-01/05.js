@@ -6,7 +6,7 @@
 //  case rule.length < 25:
 //   console.log("А что так можно было?");
 //   break;
-// ...
+
 // default:...
 // }
 
