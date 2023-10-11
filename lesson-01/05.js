@@ -13,10 +13,10 @@ default:...
 
 switch (true) {
     case rul.length < 25:
-      console.log("Все таки нет правил без исключения");
+      console.log("У меня 100 пудов все получится");
       break;
     case rul.length > 25:
-      console.log("У меня 100 пудов все получится");
+      console.log("Все таки нет правил без исключения");
       break;
     default:
       console.log("«50 на 50»");
